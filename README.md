@@ -1,7 +1,10 @@
-A digitalize system for my department which includes
-    1. Biometric Attendance.
-    2. Teacher's and student's separate web logib system.
-    3. Student's exam marks, attendance etc in profile.
-    4. Class will happen or not.
-    5. Class held in which room.
 
+# Digital Department
+A digitalize system for a Department/School.
+## Features
+
+- Biometric Attendance.
+- Teacher and student separated web login system.
+- student's exam marks, attendance etc in profile.
+- Class will happen or not(CR don't have to do it anymore). In Profile.
+- Class will held in which room. In Profile.
